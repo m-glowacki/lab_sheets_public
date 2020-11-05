@@ -1,4 +1,11 @@
 
+#ignore previous labs when merging
+
+Lab1/
+Lab2/
+Lab3/
+Lab4/
+
 # added
 .DS_Store
 */.DS_Store
